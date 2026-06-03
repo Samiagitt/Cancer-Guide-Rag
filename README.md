@@ -106,26 +106,13 @@ It does:
 ## 🧪 Example Question
 
 ```text
-What are common cancer risk factors?
+What guidelines to follow to prevent cancer?
 ```
 
 ## ✅ Example Answer
 
 ```text
-Common cancer risk factors include tobacco use, secondhand smoke, alcohol use, family history, inherited gene changes, HPV infection, hepatitis B or C infection, obesity, lack of physical activity, ultraviolet radiation, and certain chemical or workplace exposures.
-
-Having a risk factor does not mean a person will definitely get cancer. It only means the chance may be higher. A person should talk with a healthcare professional about personal cancer risk and screening needs.
-```
-
----
-
-## 🧾 Example Retrieved Sources
-
-```text
-Retrieved Sources:
-- cancer_risk_factors_cdc_summary.txt | folder: prevention_risk
-- cancer_prevention_cdc_summary.txt | folder: prevention_risk
-- cancer_screening_cdc_summary.txt | folder: screening
+Important cancer prevention steps include avoiding tobacco, limiting alcohol, protecting skin from ultraviolet radiation, staying physically active, maintaining a healthy weight, eating a nutritious diet, getting recommended vaccines, and completing recommended screening tests.
 ```
 
 ---
